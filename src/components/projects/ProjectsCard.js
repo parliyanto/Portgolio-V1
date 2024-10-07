@@ -29,7 +29,6 @@ const ProjectsCard = ({ title, des, src, des2, }) => {
           </p>
         </div>
       </div>
-     </div>
   );
 }
 
